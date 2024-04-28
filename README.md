@@ -83,7 +83,8 @@ Community Building and Engagement: Building a sense of community among users can
 
 Here's the third Graph :
 
-![image](https://github.com/imporu/Excel-ling/assets/161977105/3af369ec-0794-453b-a4df-8f6eabeeee40)
+![image](https://github.com/imporu/Excel-ling/assets/161977105/8d8337b3-1525-479e-9a9e-67988f54dd41)
+
 
 Optimize Bike Availability: Adjust bike availability based on the average ride length per weekday to ensure an adequate supply of bikes during peak usage periods. For instance, on Thursdays and Fridays, when average ride lengths are longer, Cyclistic should increase the number of bikes available to meet higher demand and prevent shortages. Conversely, on Tuesdays when average ride lengths are shorter, resources can be reallocated to other days or stations with higher demand.
 Promote Weekend Rides: Since Saturdays and Sundays have relatively high average ride lengths, Cyclistic can launch targeted marketing campaigns to promote weekend rides and encourage users to take advantage of longer leisurely rides. Special promotions, events, or themed rides can attract more riders and boost weekend usage, contributing to increased revenue and user engagement.
