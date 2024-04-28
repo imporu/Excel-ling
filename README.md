@@ -94,7 +94,8 @@ Improve Weekday Infrastructure: Enhance station infrastructure and amenities on 
 Data-Driven Operations: Continuously analyze ride length data by weekday to identify trends, patterns, and areas for improvement. Cyclistic should leverage data analytics tools and techniques to monitor changes in user behavior, assess the effectiveness of interventions, and make data-driven decisions to optimize operations and enhance customer satisfaction.
 
 Here's fourth map and findings: 
-![image](https://github.com/imporu/Excel-ling/assets/161977105/e0855f99-1cae-4412-9686-43cb5019240f)
+
+![image](https://github.com/imporu/Excel-ling/assets/161977105/973688a2-c632-4247-bc01-9bf8c0e82f6e)
 
 Resource Allocation: Allocate resources such as bikes, staff, and maintenance activities based on the total rides per weekday. Days with higher ride counts, such as Thursday, Friday, and Saturday, may require increased staffing levels and more frequent bike redistribution to ensure adequate bike availability and optimal service quality.
 Peak Hour Management: Identify peak hours on high-traffic weekdays and implement strategies to manage peak demand effectively. For example, Cyclistic can offer incentives for off-peak rides, adjust pricing dynamically based on demand, or introduce queue management systems to streamline bike pickup and return processes during peak hours.
@@ -104,7 +105,7 @@ Community Engagement: Foster community engagement and participation by organizin
 Data-Driven Decision Making: Continuously monitor and analyze ride data to identify trends, patterns, and opportunities for optimization. By leveraging data analytics tools and techniques, Cyclistic can make informed decisions, adapt strategies in real-time, and stay responsive to evolving user needs and preferences.
 
 Here's my Fifth map and findings 
-![image](https://github.com/imporu/Excel-ling/assets/161977105/d4cc4a1e-e61d-4648-adde-e2273b17b392)
+
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/63d3ac61-ed98-40e0-9355-33f8025317f2)
 
 Peak Hour Management: Identify peak hours with the highest number of rides and implement strategies to manage peak demand effectively. Cyclistic should ensure an adequate supply of bikes and docking stations during peak hours to prevent shortages and accommodate increased rider traffic.
