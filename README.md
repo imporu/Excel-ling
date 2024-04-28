@@ -3,7 +3,7 @@
 I worked on the Google Data Analytics Capstone Project, Track 1, Case Study 1. I will be diving into the background, my full process of cleaning, analyzing, and visualizing the data, along with my final suggestions and summary of the data. 
 
 # **BACKGROUND**
-Cyclistic is a bike-sharing program that features more than 5,800 bikes and 600 docking stations. It offers reclining bikes, hand tricycles, and cargo bikes, making it more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. It was founded in 2016 and has grown tremendously into a fleet of bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. 
+Cyclistic is a bike-sharing program that features more than 5,800 bikes and 600 docking stations. It offers reclining bikes, hand tricycles, and cargo bikes, making it more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. It was founded in 2016 and has grown tremendously into a fleet of bicycles that are tracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system at any time. 
 
 Previously, Cyclistic's marketing strategy tried to build general awareness and appeal to broad consumers. It has flexible pricing plans: single-ride passes, full-day passes, and annual memberships. Those who purchase single-ride or full-day passes are referred to as casual riders while those who purchase annual memberships are Cyclistic members. 
 My Role: In this scenario, I am a junior data analyst at Cyclistic and my team has been tasked with the overall goal (see below) of designing marketing strategies 
@@ -13,7 +13,7 @@ Business Question: "How do annual members and casual riders use Cyclistic bikes 
 
 Below I will be describing my roadmap for this.
 
-**Case Study Roadmap **
+# **Case Study Roadmap **
 
 PROCESS:
 Overview: I first analyzed the data separately (each month) in Excel, then used R to analyze the data as a whole (one year). Finally, I created a dashboard in Tableau and used Figma to support the design elements. 
@@ -57,7 +57,7 @@ I also created a Google Docs Notes list where I wrote down the exact steps for e
 
 Well after reading all this you must be getting bored. Then Let's get to the visualization part
 
-So here's my first chart Total Rides Per Bike Type 
+# So here's my first chart Total Rides Per Bike Type 
 
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/56be5efa-f93a-4aad-95ff-05e975ce08ee)
 
@@ -69,7 +69,7 @@ Based on the above graph and after analyzing these trends :
 5. Customer Engagement: Analyzing the data can provide insights into customer behavior and preferences. The company can use this information to enhance customer engagement strategies, such as personalized recommendations, targeted communications, and loyalty programs, to improve customer satisfaction and retention.
 6. Partnerships and Collaborations: Exploring partnerships with local businesses, events, or transportation authorities can help increase visibility and attract new customers. Collaborations with ride-sharing services or public transportation systems can also provide additional transportation options and enhance the overall customer experience.
 
-Here's the second graph : 
+# Here's the second graph : 
 
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/5370f31c-1a6b-489f-a4a5-17678033a94e)
 
@@ -80,7 +80,7 @@ Here's the second graph :
 5. Customer Support and Communication: Providing excellent customer support and communication channels is crucial for both casual users and members. Cyclistic should ensure prompt responses to user inquiries, address any issues or concerns effectively, and regularly communicate updates, promotions, and relevant information to keep users engaged and informed.
 6. Community Building and Engagement: Building a sense of community among users can foster loyalty and encourage active participation. Cyclistic can create online forums, social media groups, or offline events where users can connect, share experiences, and provide feedback. By fostering a vibrant and supportive community, Cyclistic can strengthen its brand image and enhance user satisfaction.
 
-Here's the third Graph :
+# Here's the third Graph :
 
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/8d8337b3-1525-479e-9a9e-67988f54dd41)
 
@@ -91,7 +91,7 @@ Here's the third Graph :
 5. Improve Weekday Infrastructure: Enhance station infrastructure and amenities on weekdays to accommodate longer rides and support user needs. Cyclistic can prioritize maintenance and cleanliness, install additional bike racks or docking stations in high-traffic areas, and provide facilities such as bike repair stations or rest areas along popular routes to enhance the overall riding experience on weekdays.
 6. Data-Driven Operations: Continuously analyze ride length data by weekday to identify trends, patterns, and areas for improvement. Cyclistic should leverage data analytics tools and techniques to monitor changes in user behavior, assess the effectiveness of interventions, and make data-driven decisions to optimize operations and enhance customer satisfaction.
 
-Here's fourth map and findings: 
+# Here's fourth map and findings: 
 
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/973688a2-c632-4247-bc01-9bf8c0e82f6e)
 
@@ -102,7 +102,7 @@ Here's fourth map and findings:
 5. Community Engagement: Foster community engagement and participation by organizing events, group rides, or challenges on weekdays with lower total rides. These initiatives can help build a sense of camaraderie among users, promote active lifestyles, and drive weekday ridership, contributing to a more vibrant and engaged user community.
 6. Data-Driven Decision Making: Continuously monitor and analyze ride data to identify trends, patterns, and opportunities for optimization. By leveraging data analytics tools and techniques, Cyclistic can make informed decisions, adapt strategies in real-time, and stay responsive to evolving user needs and preferences.
 
-Here's my Fifth map and findings 
+# Here's my Fifth map and findings 
 
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/63d3ac61-ed98-40e0-9355-33f8025317f2)
 
@@ -113,7 +113,7 @@ Here's my Fifth map and findings
 5. Data-Driven Operations: Continuously monitor and analyze ride data to identify trends, patterns, and opportunities for optimization. Cyclistic should leverage data analytics tools and predictive modeling techniques to forecast demand, plan resource allocation, and optimize operational efficiency, ultimately enhancing the overall user experience and maximizing system performance.
 6. Collaboration with Local Partners: Collaborate with local businesses, event organizers, and transportation authorities to promote ridesharing initiatives and integrate biking into multi-modal transportation networks. Cyclistic can explore partnerships to offer seamless connectivity between bike-sharing services and public transit systems, providing users with convenient and sustainable mobility solutions throughout the day.
 
-Here's my Sixth map and findings :
+# Here's my Sixth map and findings :
 
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/52f2f119-84ae-494c-88ba-d1b2061ec67a)
 
@@ -124,7 +124,7 @@ Here's my Sixth map and findings :
 5. Geographic Expansion and Service Enhancement: Evaluate ride data to identify underserved areas or potential growth opportunities and prioritize expansion efforts accordingly. Cyclistic can target areas with high demand or limited transportation options, deploy additional bikes and stations, and invest in infrastructure improvements to enhance accessibility and coverage, thereby attracting new users and expanding the customer base.
 6. Data-Driven Decision-Making: Continuously monitor key performance indicators, track trends, and analyze user behavior to inform strategic decision-making and optimize operations. Cyclistic should leverage data analytics tools and predictive modeling techniques to identify patterns, forecast future demand, and proactively address challenges, ensuring the sustainability and success of its bike-share program over the long term.
 
-Here's some data :
+Here's an analysis on # avg. ride length by user_type:
 
 Average ride length for casual users: 40.33 minutes
 Average ride length for members: 53.83 minutes
@@ -137,7 +137,7 @@ Now, let's derive recommendations based on this analysis:
 5. Promote Membership Benefits: Highlighting the benefits of membership, such as access to longer ride durations at a lower cost per minute, can incentivize casual users to consider upgrading to a membership. Cyclistic can leverage targeted marketing campaigns and communications to showcase the value proposition of membership and encourage casual users to make the switch.
 6. Continuous Data Analysis: Regularly analyzing ride length data by user type is essential for monitoring trends, identifying opportunities, and adapting strategies accordingly. Cyclistic should establish robust data analytics processes to track key metrics related to ride length, user behavior, and membership conversion rates. By staying informed and agile, Cyclistic can optimize its operations and offerings to meet the needs of its user base better.
 
-****Summary****
+# **Summary**
 
 And at last here's a summary of the above data :
 
