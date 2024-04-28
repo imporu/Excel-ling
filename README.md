@@ -58,7 +58,8 @@ I also created a Google Docs Notes list where I wrote down the exact steps for e
 Well after reading all this you must be getting bored. Then Let's get to the visualization part
 
 So here's my first chart Total Rides Per Bike Type 
-![image](https://github.com/imporu/Excel-ling/assets/161977105/fee0bea2-3b03-40af-b029-c4a86557ff4b)
+
+![image](https://github.com/imporu/Excel-ling/assets/161977105/56be5efa-f93a-4aad-95ff-05e975ce08ee)
 
 Based on the above graph and after analyzing these trends :  
 1. Seasonal Trends: From the data, it's evident that there are seasonal trends in bike usage, with higher ridership during warmer months (May to September) compared to colder months (November to March). The company can leverage these seasonal patterns to allocate resources effectively, such as increasing bike availability during peak months and optimizing operations during off-peak months.
@@ -69,7 +70,9 @@ Based on the above graph and after analyzing these trends :
 6. Partnerships and Collaborations: Exploring partnerships with local businesses, events, or transportation authorities can help increase visibility and attract new customers. Collaborations with ride-sharing services or public transportation systems can also provide additional transportation options and enhance the overall customer experience.
 
 Here's the second graph : 
-![image](https://github.com/imporu/Excel-ling/assets/161977105/aa945974-2b25-417a-81aa-e72e5f59dd7d)
+
+![image](https://github.com/imporu/Excel-ling/assets/161977105/5370f31c-1a6b-489f-a4a5-17678033a94e)
+
 
 Member Retention and Engagement: The data shows that the number of rides by members consistently exceeds those by casual users across all months. To maintain this trend and encourage member retention, Cyclistic should focus on enhancing the overall user experience for members. This could include providing exclusive benefits, rewards, and incentives for members, such as discounts on additional services or priority access to popular bikes during peak hours.
 Promotions for Casual Users: While the number of rides by casual users is lower compared to members, there is still a significant portion of the customer base. Cyclistic can target casual users with promotional campaigns and special offers to encourage repeat usage and potentially convert them into members. For example, offering discounted membership rates or free trial periods for casual users can incentivize them to become long-term members.
@@ -79,6 +82,7 @@ Customer Support and Communication: Providing excellent customer support and com
 Community Building and Engagement: Building a sense of community among users can foster loyalty and encourage active participation. Cyclistic can create online forums, social media groups, or offline events where users can connect, share experiences, and provide feedback. By fostering a vibrant and supportive community, Cyclistic can strengthen its brand image and enhance user satisfaction.
 
 Here's the third Graph :
+
 ![image](https://github.com/imporu/Excel-ling/assets/161977105/3af369ec-0794-453b-a4df-8f6eabeeee40)
 
 Optimize Bike Availability: Adjust bike availability based on the average ride length per weekday to ensure an adequate supply of bikes during peak usage periods. For instance, on Thursdays and Fridays, when average ride lengths are longer, Cyclistic should increase the number of bikes available to meet higher demand and prevent shortages. Conversely, on Tuesdays when average ride lengths are shorter, resources can be reallocated to other days or stations with higher demand.
