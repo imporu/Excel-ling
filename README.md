@@ -137,7 +137,8 @@ Now, let's derive recommendations based on this analysis:
 5. Promote Membership Benefits: Highlighting the benefits of membership, such as access to longer ride durations at a lower cost per minute, can incentivize casual users to consider upgrading to a membership. Cyclistic can leverage targeted marketing campaigns and communications to showcase the value proposition of membership and encourage casual users to make the switch.
 6. Continuous Data Analysis: Regularly analyzing ride length data by user type is essential for monitoring trends, identifying opportunities, and adapting strategies accordingly. Cyclistic should establish robust data analytics processes to track key metrics related to ride length, user behavior, and membership conversion rates. By staying informed and agile, Cyclistic can optimize its operations and offerings to meet the needs of its user base better.
 
-**Summary**
+****Summary****
+
 And at last here's a summary of the above data :
 
 1. Peak Hour Management:
